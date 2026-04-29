@@ -13,7 +13,7 @@ import com.example.sapo_app.presentation.screen.ProfileScreen
 import com.example.sapo_app.presentation.screen.RegisterScreen
 
 @Composable
-fun AppNavGrah() {
+fun AppNavGraph() {
     val navController = rememberNavController()
 
     NavHost(
